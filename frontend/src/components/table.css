@@ -1,0 +1,18 @@
+div{
+    align-content: center;
+}
+table {
+border: 2px solid black;
+width: 75%;
+height: 75%;
+}
+
+th {
+border-bottom: 2px solid black;
+padding: 5px;
+}
+
+td {
+text-align: center;
+border-bottom: 1px solid black;
+}
